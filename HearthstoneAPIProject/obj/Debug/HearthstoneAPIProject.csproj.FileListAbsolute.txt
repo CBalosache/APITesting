@@ -1,0 +1,12 @@
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\HearthstoneAPIProject.exe.config
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\HearthstoneAPIProject.exe
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\HearthstoneAPIProject.pdb
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\RestSharp.dll
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\bin\Debug\RestSharp.xml
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\obj\Debug\HearthstoneAPIProject.csprojAssemblyReference.cache
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\obj\Debug\HearthstoneAPIProject.csproj.CoreCompileInputs.cache
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\obj\Debug\HearthstoneAPIProject.csproj.CopyComplete
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\obj\Debug\HearthstoneAPIProject.exe
+C:\Users\Cosmin Balosache\source\repos\HearthstoneAPIProject\HearthstoneAPIProject\obj\Debug\HearthstoneAPIProject.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneAPIProject", "HearthstoneAPIProject\HearthstoneAPIProject.csproj", "{B9FF53AF-5B08-4FBD-9C85-36017D45BEDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HearthstoneAPIProject.Test", "HearthstoneAPIProject.Test\HearthstoneAPIProject.Test.csproj", "{ACC4C258-7216-48DE-B40E-86E106AFF6AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9FF53AF-5B08-4FBD-9C85-36017D45BEDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9FF53AF-5B08-4FBD-9C85-36017D45BEDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9FF53AF-5B08-4FBD-9C85-36017D45BEDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9FF53AF-5B08-4FBD-9C85-36017D45BEDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACC4C258-7216-48DE-B40E-86E106AFF6AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC4C258-7216-48DE-B40E-86E106AFF6AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC4C258-7216-48DE-B40E-86E106AFF6AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC4C258-7216-48DE-B40E-86E106AFF6AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC8F8AF5-18AE-4A4E-B64B-751450361E03}
+	EndGlobalSection
+EndGlobal
